@@ -1,5 +1,3 @@
-"# Confiscate"
-
 ## Overview
 
 Confiscate is an audio streaming application that was initially designed to connect to Spotify's API. It offers features like getting access token, search, artist pages, interface. However, it currently lacks the essential playback functionality due to limitations in the Spotify API.
@@ -29,7 +27,7 @@ Detailed setup instructions and documentation will be provided as we continue to
 
 ## Contributions
 
-We welcome contributions from the open-source community. If you have any ideas, improvements, or would like to collaborate on adding Soundcloud integration or other features, please feel free to submit pull requests or open issues.
+I welcome contributions from the open-source community. If you have any ideas, improvements, or would like to collaborate on adding Soundcloud integration or other features, please feel free to submit pull requests or open issues.
 
 ## Contact
 
